@@ -170,7 +170,7 @@ From `expanded-bebop-352104.covidproject.CovidDeaths` dea
 Join `expanded-bebop-352104.covidproject.CovidVaccinations` vac
 	On dea.location = vac.location
 	and dea.date = vac.date
-where dea.continent is not null 
+where dea.continent is not null
 
 ```
 
