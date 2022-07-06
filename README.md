@@ -174,4 +174,8 @@ where dea.continent is not null
 
 ```
 
+## Share
+In this phase of Analysis, Tableau Public was used to visualize the analysis made on this study.
+
+![Covid](https://user-images.githubusercontent.com/108308205/177652333-a351ca59-2b94-4b34-9c4b-aae86f314773.png)
 
